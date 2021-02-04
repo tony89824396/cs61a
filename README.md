@@ -1,4 +1,4 @@
-# cs61a version of fall 2017 
+# cs61a (Fall 2017)
 
 skip scheme project and hw10. 
 
