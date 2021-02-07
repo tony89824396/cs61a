@@ -4,4 +4,4 @@ skip scheme project and hw10.
 
 optional answers are not provided.
 
-PS: Lots of my codes were either created by my own or referenced from gabywang/cs61a/2017.
+PS: parts of my codes were referenced from gabywang/cs61a/2017.
