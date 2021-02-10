@@ -1,7 +1,7 @@
 # cs61a (Fall 2017)
 
-skip scheme project and hw10. 
+Skip SCHEME project and HW10 and HW11
 
-optional answers are not provided.
+Optional answers are not provided.
 
 PS: parts of my codes were referenced from gabywang/cs61a/2017.
